@@ -1,0 +1,94 @@
+commit e2b48ae346d95d16acd4b504f3dc96a415708179
+Merge: 6ede87c 507eeb9
+Author: Antonyhz <hernandezantony333@gmail.com>
+Date:   Thu Apr 24 21:55:22 2025 -0400
+
+    Resolviendo conflicto, Agregando fecha a las estaciones del year
+
+commit 6ede87c4d0ece0034f15f1a133a29e819edf8e8d
+Author: Antonyhz <hernandezantony333@gmail.com>
+Date:   Thu Apr 24 21:30:12 2025 -0400
+
+    Agregando estaciones del year con sus fechas
+
+commit 507eeb959965d793b9de08f9f81fce3332672611
+Author: Antonyhz <hernandezantony333@gmail.com>
+Date:   Thu Apr 24 21:30:12 2025 -0400
+
+    Agregando estaciones del year
+
+commit bb4d424de1816672013ec20acafd14faf3171aa5
+Merge: 07300c6 a42bfb6
+Author: Antonyhz <hernandezantony333@gmail.com>
+Date:   Thu Apr 24 06:35:12 2025 -0400
+
+    Resolviendo conflicto merge
+
+commit a42bfb6cf332fce784570857ad7cc1fc386f4e12
+Author: Antonyhz <hernandezantony333@gmail.com>
+Date:   Thu Apr 24 06:28:02 2025 -0400
+
+    Agregando archivo javascript al index.html
+
+commit 07300c684aa4eb17955f308fd76513d7fcd5c083
+Author: Antonyhz <hernandezantony333@gmail.com>
+Date:   Thu Apr 24 06:25:52 2025 -0400
+
+    Agregando stlye.css al index.html
+
+commit 430da3048cd4072d818e1bd0ef7ecbb2711ba670
+Merge: b7793a5 0a0baeb
+Author: Antonyhz <hernandezantony333@gmail.com>
+Date:   Wed Apr 23 11:03:30 2025 -0400
+
+    Merge branch 'js'
+
+commit 0a0baebd3c66ca30b694c54985880b9e8e3b4537
+Author: Antonyhz <hernandezantony333@gmail.com>
+Date:   Wed Apr 23 10:53:57 2025 -0400
+
+    Agregando archivo JS
+
+commit b7793a5343f5cde51224e446af05b85b9cd803c0
+Author: Antonyhz <hernandezantony333@gmail.com>
+Date:   Wed Apr 23 10:16:39 2025 -0400
+
+    Actualizacion
+
+commit 52ddb93e38272f977e589cd442fccfb500b748d9
+Author: Antonyhz <hernandezantony333@gmail.com>
+Date:   Wed Apr 23 09:43:15 2025 -0400
+
+    Agregando style.css
+
+commit b07551c3bc12f010dba16383543a044f08445f04
+Author: Antonyhz <hernandezantony333@gmail.com>
+Date:   Wed Apr 23 09:36:19 2025 -0400
+
+    Creando archivo index.html
+
+commit 81490f40842773c198e338707adb971a4ddbe014
+Author: Antonyhz <120033243+antonyrz@users.noreply.github.com>
+Date:   Tue Apr 22 11:49:35 2025 -0400
+
+    Creando licencia
+    
+    Creando licencia del Repositorio
+
+commit 2e6a95456703b367026e870c856e2394ba75d1ee
+Author: Antonyhz <hernandezantony333@gmail.com>
+Date:   Tue Apr 22 11:25:45 2025 -0400
+
+    Agregue la fecha actual en README
+
+commit 9f0249d126b209ba6f38a83bbc1947759739a567
+Author: Antonyhz <hernandezantony333@gmail.com>
+Date:   Tue Apr 22 11:03:52 2025 -0400
+
+    Segundo cambio del commit, información inicial en README
+
+commit 352c836562293473d780446927467a31fb8ce4e8
+Author: Antonyhz <hernandezantony333@gmail.com>
+Date:   Tue Apr 22 10:54:50 2025 -0400
+
+    Primer commit

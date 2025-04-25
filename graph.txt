@@ -1,0 +1,24 @@
+*   e2b48ae Resolviendo conflicto, Agregando fecha a las estaciones del year
+|\  
+| * 507eeb9 Agregando estaciones del year
+* | 6ede87c Agregando estaciones del year con sus fechas
+|/  
+*   bb4d424 Resolviendo conflicto merge
+|\  
+| * a42bfb6 Agregando archivo javascript al index.html
+* | 07300c6 Agregando stlye.css al index.html
+|/  
+*   430da30 Merge branch 'js'
+|\  
+| * 0a0baeb Agregando archivo JS
+* | b7793a5 Actualizacion
+* | 52ddb93 Agregando style.css
+| | * b0be717 informacion nueva
+| |/  
+|/|   
+* | b07551c Creando archivo index.html
+|/  
+* 81490f4 Creando licencia
+* 2e6a954 Agregue la fecha actual en README
+* 9f0249d Segundo cambio del commit, información inicial en README
+* 352c836 Primer commit
